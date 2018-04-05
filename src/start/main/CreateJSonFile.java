@@ -16,6 +16,15 @@ import org.json.simple.JSONObject;
  * @date: Mar 12, 2018
  */
 public class CreateJSonFile {
+	 /**
+	 * @description:  
+	 * @author: Admin CMC Corporation
+	 * @create_date: Mar 13, 2018
+	 * @modifier: Admin
+	 * @modifined_date: Mar 13, 2018
+	 * @exception: 
+	 * @param args
+	 */
 	public static void main(String[] args) {
 
 		JSONObject obj = new JSONObject();
